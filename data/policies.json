@@ -1,0 +1,50 @@
+
+{
+  "policies": [
+    {
+      "policy_id": "INS1001",
+      "holder_name": "Rahul Sharma",
+      "policy_type": "Health Insurance",
+      "coverage_amount": 500000,
+      "policy_start_date": "2025-01-01",
+      "waiting_period_months": 24,
+      "covered_treatments": [
+        "hospitalization",
+        "surgery",
+        "accident",
+        "medical treatment"
+      ],
+      "excluded_treatments": [
+        "cosmetic surgery",
+        "experimental treatment"
+      ],
+      "required_documents": [
+        "hospital bill",
+        "discharge summary",
+        "doctor prescription"
+      ]
+    },
+    {
+      "policy_id": "INS1002",
+      "holder_name": "Priya Patil",
+      "policy_type": "Health Insurance",
+      "coverage_amount": 300000,
+      "policy_start_date": "2024-06-01",
+      "waiting_period_months": 12,
+      "covered_treatments": [
+        "hospitalization",
+        "surgery",
+        "accident"
+      ],
+      "excluded_treatments": [
+        "cosmetic surgery",
+        "experimental treatment"
+      ],
+      "required_documents": [
+        "hospital bill",
+        "discharge summary",
+        "doctor prescription"
+      ]
+    }
+  ]
+}
